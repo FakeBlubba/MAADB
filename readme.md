@@ -7,7 +7,6 @@
 
 # Dubbi
 
-- Come fare tutta la parte di lemming stemming cazzi e mazzi (slide sulle linee-guida)
 - Come fare quello che ci sta di seguito
 
 ```**Includere:**
@@ -18,20 +17,6 @@
 ***\*l'indicazione delle operazioni di cui si occupano\** \**le interfacce I/O con il resto del progetto.\**
  \4. \**i risultati ottenuti, in termini di:\**\**statistiche di uso delle risorse lessicali (percentuali delle parole di ciascuna risorsa presenti anche nei tweets)\** \**le word clouds per gli 8 sentimenti di annotazione dei Tweets (Anger,  Anticipation, Disgust, Joy, Fear, Sadness, Surprise, Trust)\**** ```   
 ```
-
-1. Fare delle word cloud dove si mostrano le parole maggiormente gioiose e maggiormente sadness
-2. Confronto in maniera visuale delle 2 word_cloud.
-
-Ci sono 8 emozioni differenti:
-
-- Joy
-- Sadness
-- Anger
-- Disgust
-- Fear
-- Surprise
-- Trust
-- Anticipation
 
 Obiettivo 2: Valutare quanto sono ancora attendibili i tesauri utilizzati per la ricerca. 
 
